@@ -9,14 +9,7 @@ function App() {
         <p>
           수정
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h3>파일 내려받고 수정했음</h3>
       </header>
     </div>
   );
